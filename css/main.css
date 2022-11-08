@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: #24353F;
+    height: 75vh;
+
+}
+
+p a:hover
+{
+    text-decoration: underline !important;
+}
+.form-container
+{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    width: 65%;
+}
+.navbar
+{
+    background-color: #24353f !important;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.welcome-msg {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
